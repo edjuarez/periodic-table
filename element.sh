@@ -1,4 +1,5 @@
 #!/bin/bash
+# Connect to the periodic_table PostgreSQL database
 
 PSQL="psql --username=freecodecamp --dbname=periodic_table -t --no-align -c"
 
