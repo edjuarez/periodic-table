@@ -13,3 +13,8 @@ FreeCodeCamp Periodic Table Database project using Bash and PostgreSQL.
 ## Examples
 
 The script accepts an atomic number, symbol, or element name.
+
+## Files
+
+- `element.sh` - element lookup script
+- `periodic_table.sql` - PostgreSQL database dump
